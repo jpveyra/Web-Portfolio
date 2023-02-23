@@ -1,0 +1,54 @@
+/*CSS Reset*/
+* {
+	margin: 0;
+	border: 0;
+	font-family: roboto, sans-serif;
+	box-sizing: border-box;
+}
+
+#top {
+	height: 100vh;
+	width: 100%;
+	background-image: url(https://images.pexels.com/photos/355829/pexels-photo-355829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+	background-size: cover;
+	background-position: center;
+
+}
+
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.logo {
+	color: white;
+	font-size: 30px;
+	letter-spacing: 2px;
+}
+
+nav ul li {
+	list-style-type: none;
+	color: white;
+	display: inline-block;
+	padding: 10px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
